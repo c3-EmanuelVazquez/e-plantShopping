@@ -1,7 +1,7 @@
 # coding-project-template
 # Paradise Nursery - Plant Store
 
-A simple React + Redux application (e-panltShopping) for browsing and purchasing plants online. Users can view plant categories, add plants to a shopping cart, update quantities, and see the total cart amount.
+A simple React + Redux application (e-plantShopping) for browsing and purchasing plants online. Users can view plant categories, add plants to a shopping cart, update quantities, and see the total cart amount.
 
 ---
 
